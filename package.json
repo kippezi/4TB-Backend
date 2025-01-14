@@ -1,0 +1,16 @@
+{
+  "name": "4tb_backend",
+  "version": "1.0.0",
+  "description": "4TB backend code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nico Fager",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.4"
+  }
+}

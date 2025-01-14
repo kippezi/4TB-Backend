@@ -1,0 +1,16 @@
+{
+    "Question ":[
+        {
+            "id": "1",
+            "content": "Would you rather eat cake or spaghetti"
+        },
+        {
+            "id": "2",
+            "content": "Would you rather drink soda or milk"
+        },
+        {
+            "id": "3",
+            "content": "Would you rather eat cardboard or paper"
+        }
+    ]
+}
