@@ -13,10 +13,6 @@ The code for the project is located in the **backend.js** file
 1. [Project Overview](#project-overview)
 2. [Database Tables](#database-tables)
 3. [API Endpoints](#api-endpoints)
-4. [Installation](#installation)
-5. [Contributing](#contributing)
-6. [License](#license)
-
 ---
 
 ## Project Overview
