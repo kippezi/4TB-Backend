@@ -4,6 +4,8 @@
 
 The `4TB-Backend` repository contains the logic and endpoints for managing the database and supporting the gameplay experience defined in the `4TB-Unity` repository.
 
+The code for the project is located in the **backend.js** file
+
 ---
 
 ## Table of Contents
